@@ -6,7 +6,12 @@ var exphbs  = require('express-handlebars');
 var app = express();
  
 // Template
-app.engine('handlebars', exphbs({defaultLayout : 'principal'}));
+
+
+
+app.engine('handlebars', exphbs({defaultLayout: 'principal'}));
+
+
 app.set('view engine', 'handlebars');
  
 // Rotas
