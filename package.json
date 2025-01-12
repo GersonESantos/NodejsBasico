@@ -1,0 +1,12 @@
+{
+  "name": "nodejsbasico",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <img src=\"https://github.com/ralflima/nodejs_basico/blob/main/icone.png\" width=\"30%\">   <h1 style=\"border-bottom:none\">Node.js Básico</h1>   <p>Instrutor: Ralf Schweder de Lima</p>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
